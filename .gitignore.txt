@@ -1,4 +1,3 @@
-id: vnaikwadi
-pswd: Vrunav@1214
+
 
 Remote Repo: https://github.com/vnaikwadi/vrushali.git
